@@ -1,3 +1,4 @@
+![Logo](docs/img/s2.png)
 # Shamhat
 
-From [Shamhat](https://en.wikipedia.org/wiki/Shamhat)
+From _[Shamhat](https://en.wikipedia.org/wiki/Shamhat)_
